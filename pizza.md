@@ -5,4 +5,3 @@
 * Doll
 * Cheese
 * Tomato
-* Tomato sauce
